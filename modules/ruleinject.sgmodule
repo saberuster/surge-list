@@ -1,0 +1,5 @@
+#!name=RuleSet注入
+#!desc=自动把自己写的RuleSet注入进Surge4
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/saberuster/surge-list/main/developer.list,DIRECT,update-interval=86400
