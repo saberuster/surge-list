@@ -1,3 +1,7 @@
-# for developer
+# for unreal developer
 DOMAIN-SUFFIX,unrealengine.com
+
+# for artstation
 DOMAIN-SUFFIX,artstation.com
+# for artstation login
+DOMAIN,talon-website-prod.ak.epicgames.com
