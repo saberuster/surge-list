@@ -5,3 +5,7 @@ DOMAIN-SUFFIX,unrealengine.com
 DOMAIN-SUFFIX,artstation.com
 # for artstation login
 DOMAIN,talon-website-prod.ak.epicgames.com
+
+# openwrt
+DOMAIN-SUFFIX,openwrt.org
+
