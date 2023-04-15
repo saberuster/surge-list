@@ -9,3 +9,12 @@ DOMAIN,talon-website-prod.ak.epicgames.com
 # openwrt
 DOMAIN-SUFFIX,openwrt.org
 
+# software
+DOMAIN,cdn-fastly.obsproject.com
+
+# AI
+DOMAIN-SUFFIX,civitai.com
+DOMAIN-SUFFIX,midjourney.com
+
+# ladder
+DOMAIN-SUFFIX,tgcloud.top,DIRECT
